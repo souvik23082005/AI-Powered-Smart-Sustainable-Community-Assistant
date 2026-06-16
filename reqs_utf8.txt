@@ -1,0 +1,179 @@
+<USER_REQUEST>
+PROJECT: AI-Powered Smart Sustainable Community Assistant
+
+CURRENT STATUS:
+Phases 1–5 have already been completed.
+
+Implemented:
+
+* React + Vite frontend
+* Flask backend
+* MySQL database
+* User registration/login
+* Admin login
+* JWT authentication
+* Complaint reporting system
+* Image upload
+* Complaint tracking
+* Gemini AI Sustainability Chatbot
+* Carbon Footprint Calculator
+* User analytics
+* Admin analytics
+
+OBJECTIVE:
+Complete the remaining phases and transform the project into a production-ready, professional, portfolio-quality web application suitable for B.Tech final project demonstrations, ESD evaluation, hackathons, and deployment.
+
+====================================================
+PHASE 6: ADVANCED UI/UX & VISUAL EXPERIENCE
+===========================================
+
+Frontend Stack:
+
+* React.js
+* Tailwind CSS
+* Framer Motion
+* GSAP
+* React Three Fiber
+* Three.js
+* React Icons
+
+Requirements:
+
+1. Landing Page
+
+   * Full-screen futuristic hero section
+   * Animated 3D Earth
+   * Animated background particles
+   * Smooth scrolling
+   * Modern SaaS design
+   * Glassmorphism cards
+   * Responsive layout
+
+2. SDG Showcase Section
+
+   * Display SDGs covered:
+
+     * No Poverty
+     * Good Health
+     * Quality Education
+     * Sustainable Cities
+     * Climate Action
+   * Animated cards
+   * Hover effects
+
+3. Features Section
+
+   * AI Assistant
+   * Complaint Management
+   * Carbon Calculator
+   * Analytics Dashboard
+   * Sustainability Score
+
+4. Authentication Pages
+
+   * Premium login design
+   * Split-screen layout
+   * Animated illustrations
+   * Validation
+   * Error handling
+
+5. Dashboard Redesign
+
+   * Modern sidebar
+   * Mobile responsive
+   * Animated widgets
+   * KPI cards
+   * Notification panel
+
+====================================================
+PHASE 7: SECURITY & ACCESS CONTROL
+==================================
+
+Requirements:
+
+1. Secure JWT implementation
+2. Password hashing using bcr
+<truncated 3152 bytes>
+uthentication tests
+* Complaint module tests
+* Chatbot tests
+
+====================================================
+PHASE 15: DEPLOYMENT
+====================
+
+Frontend:
+
+* Vercel
+
+Backend:
+
+* Render or Railway
+
+Database:
+
+* MySQL
+
+Requirements:
+
+* Environment variables
+* Production build
+* Deployment documentation
+
+====================================================
+PHASE 16: PROJECT DOCUMENTATION
+===============================
+
+Generate:
+
+1. README.md
+2. Installation Guide
+3. User Manual
+4. Admin Manual
+5. API Documentation
+6. Database Documentation
+7. Architecture Diagram
+8. ER Diagram
+
+====================================================
+PHASE 17: ESD SUBMISSION MATERIALS
+==================================
+
+Generate:
+
+1. Project Report (50–70 pages)
+2. PowerPoint Presentation
+3. Viva Questions and Answers
+4. SDG Mapping Document
+5. AI Demonstration Guide
+6. Future Scope Document
+
+====================================================
+FINAL REQUIREMENT
+=================
+
+The final product must look and behave like a modern AI-powered Smart City SaaS platform rather than a typical college project.
+
+Design inspiration:
+
+* Tesla
+* Notion
+* Linear
+* Stripe
+* Vercel
+* Smart City Dashboards
+
+Deliver production-ready code with clean architecture, modular structure, comments, documentation, responsive design, animations, and deployment readiness.
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-06-15T23:00:20+05:30.
+
+The user's current state is as follows:
+Browser State:
+  Page CECD6821812F307C62F31C9E2168DAA0 (frontend) - http://localhost:5173/dashboard [ACTIVE]
+    Viewport: 1536x730, Page Height: 729
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from Gemini 3.5 Flash (High) to Gemini 3.1 Pro (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>
